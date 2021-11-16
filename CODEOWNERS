@@ -1,0 +1,6 @@
+# SECTION: Owner(s) for everything in the repo, unless a later match takes precedence
+# FILE PATTERN                              OWNER(S)
+*                                           tjav
+
+# SECTION: Owner(s) for specific files
+# FILE PATTERN                              OWNER(S)
