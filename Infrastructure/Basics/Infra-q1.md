@@ -1,10 +1,10 @@
-# Infra Q1
+# infra-basics-1
 
 ## Description
 
-some text
-
+Starting 
 ## Outcome
+
 - deploy in portal
 - deploy via ARM/Bicep/Terraform/Ansible
 - Create drawing in ppt/visio/draw.io
@@ -12,6 +12,7 @@ some text
 or ![nicepicture]()
 
 ## references
+
 - arm template reference
 - arm function reference
 - azure architectures
