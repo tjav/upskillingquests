@@ -11,14 +11,25 @@ Enable application team members to work by creating vms through code with preins
 - Architecture drawing
 - pipline that deploys the vm (windows 10)
 - make sure the following is installed:
-  - git
-  - python
+  - Git
+  - Python
   - pip
-  - jupyter
+  - WSL (v2.*)
+  - VSCode
+  - Visual Studio Jupyter VSCode Extension
+  - Microsoft Azure Storage Explorer
+  - Postman
 
-## Reference
+## References
 
-- [ansible playbooks](https://docs.ansible.com/ansible/latest/user_guide/playbooks_intro.html#playbook-syntax)
-- 
+It is not mandantory to use these references.
 
-[back](../Infrastructure.md) <--- ---> [next](./infra-advanced-2.md)
+- [Ansible playbooks on windows](https://docs.ansible.com/ansible/latest/user_guide/windows_usage.html)
+- [GitHub Actions](https://docs.github.com/en/actions)
+- [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops)
+- [Azure Resource Manager documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
+- [Terraform on Azure](https://docs.microsoft.com/en-gb/azure/developer/terraform/)
+- [Terraform Azure provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
+- [VS Code documentation](https://code.visualstudio.com/Docs)
+
+[back](../Infrastructure.md) <--- * ---> [next](./infra-advanced-2.md)
