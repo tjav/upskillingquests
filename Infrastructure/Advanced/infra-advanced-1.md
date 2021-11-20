@@ -30,6 +30,9 @@ It is not mandantory to use these references.
 - [Azure Resource Manager documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
 - [Terraform on Azure](https://docs.microsoft.com/en-gb/azure/developer/terraform/)
 - [Terraform Azure provider](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
+- [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 - [VS Code documentation](https://code.visualstudio.com/Docs)
+- [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/reference-index?view=azure-cli-latest)
+- [WSL](https://docs.microsoft.com/en-us/windows/wsl/about)
 
 [back](../Infrastructure.md) <--- * ---> [next](./infra-advanced-2.md)
