@@ -1,8 +1,8 @@
-# infra-basics-2
+# infra-basics-3
 
 ## Description
 
-Now that there is a storage account, we can store an ARM template in it. As a starter we like to store the storage account template. Right now the template isn't ready to be deployed for other deployments. The template needs to be parameterized and a container should be deployed with the template. Contoso has the requirement that the storage account should always be in the same location as the resource group it is deployed to.
+Contoso
 
 ## Outcome
 
