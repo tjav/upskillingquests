@@ -2,13 +2,11 @@
 
 ## Description
 
-Contoso
+The full organization should be able to use the template. Show case the deployment from the storage account deployment from a linked template
 
 ## Outcome
 
-- Parametize the storage account template
-- Deploy again creating a container
-- Upload the template to the container using Azure CLI or PowerShell
+- Deploy an additional storage account from a linked template.
 
 ## References
 
