@@ -1,4 +1,4 @@
-# Security-Basics-1 Role Based Access
+# Security-Basics-6 Remediation with Policies
 
 ## Description
 
@@ -18,4 +18,4 @@ It is not mandantory to use these references.
 - [Title](Link)
 
 
-[back](../Security.md) <--- * ---> [next](./security-basics-2)
+[back](./security-basics-5.md) <--- * ---> [next](./security-basics-7.md)

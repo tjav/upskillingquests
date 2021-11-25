@@ -1,4 +1,4 @@
-# Security-Basics-1 Role Based Access
+# Security-Basics-7 Custom Policies
 
 ## Description
 
@@ -18,4 +18,4 @@ It is not mandantory to use these references.
 - [Title](Link)
 
 
-[back](../Security.md) <--- * ---> [next](./security-basics-2)
+[back](./security-basics-6.md) <--- * ---> [next](../Security.md)

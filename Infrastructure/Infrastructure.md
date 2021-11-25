@@ -7,7 +7,7 @@ Infra track:
 - [advanced](Advanced/infra-advanced-1.md)
 
 .
-├──. Infrastructure
+   ├──. Infrastructure
    ├──. Basics
    |  ├── infra-basics-1  # create storageaccount arm
    |  ├── infra-basics-2  # deploy storageaccount template to storageaccount
