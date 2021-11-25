@@ -4,4 +4,4 @@ Sentinel often requires are a big environment, which makes it difficult to deplo
 
 The [Sentinel Ninja training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310) is an awesome place to start your learnings.
 
-[back](./Sentinel-path2.md) <--- * ---> [next](../Security.md)
+[back](./Sentinel-path2.md) <--- * ---> [back to security](../Security.md)
