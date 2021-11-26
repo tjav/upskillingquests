@@ -6,6 +6,7 @@ Security track:
 - [identity](Identity/Identity-1.md)
 - [sentinel](Sentinel/Sentinel-path1.md)
 
+```
 .
 ├──. Infrastructure
    ├──. Basics
@@ -26,3 +27,4 @@ Security track:
       ├── Sentinel-path1 # Introduction to Azure Sentinel
       ├── Sentinel-path2 # Introduction to KQL
       ├── Sentinel-path3 # Automate responses
+ ```
