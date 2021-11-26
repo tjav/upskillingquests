@@ -1,14 +1,12 @@
-# infra-basics-3
+# infra-basics-6
 
 ## Description
 
-Contoso
+Contoso is very happy with the setup as it is working right now. Some developers are complaining that the code, which is written in json, is hard to read. They have heard that there is a new DSL called bicep. This should make it easier to read the code. The company would like to explorer this.
 
 ## Outcome
 
-- Parametize the storage account template
-- Deploy again creating a container
-- Upload the template to the container using Azure CLI or PowerShell
+- Create a single bicep file that will create resource group, storage account and keyvault with the sas token stored in it.
 
 ## References
 

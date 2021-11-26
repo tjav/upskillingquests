@@ -1,14 +1,13 @@
-# infra-basics-3
+# infra-basics-5
 
 ## Description
 
-Contoso
+To verify that the solution is working we want to test it by creating a new storage account.
 
 ## Outcome
 
-- Parametize the storage account template
-- Deploy again creating a container
-- Upload the template to the container using Azure CLI or PowerShell
+- Create an ARM template that deploy a storage account using the template link and token from the keyvault
+- Make sure that access-policy on the KeyVault is set by code.
 
 ## References
 

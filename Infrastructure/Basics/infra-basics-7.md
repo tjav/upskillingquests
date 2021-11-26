@@ -1,14 +1,13 @@
-# infra-basics-3
+# infra-basics-7
 
 ## Description
 
-Contoso
+Now that this is possible update the solution where all the resource group scoped resources are modulized and the parameters are in a seperate file.
 
 ## Outcome
 
-- Parametize the storage account template
-- Deploy again creating a container
-- Upload the template to the container using Azure CLI or PowerShell
+- Modulize the solution
+- create a seperate variable file that contains the parameters.
 
 ## References
 

@@ -2,13 +2,13 @@
 
 ## Description
 
-Contoso 
+Now that teams in Contoso are able to use the templates from a storage accounts, the company wants to update the security posture of giving access to the storage accounts. For this, they are looking in to using Azure KeyVault for storing the a SAS-token.
 
 ## Outcome
 
-- Parametize the storage account template
-- Deploy again creating a container
-- Upload the template to the container using Azure CLI or PowerShell
+- Design an architecture for the solution
+- Create an ARM template(s) that deploys the solution
+- Make sure you are storing the SAS token via ARM (no script)
 
 ## References
 
