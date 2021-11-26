@@ -29,19 +29,31 @@ Infra track:
    |  ├── infra-basics-17 # create a function app that executes the calls the script
    |  └── infra-basics-18 # create a durable function
    ├──. Networking
-   |  ├── infra-networking-1
-   |  ├── infra-networking-2
-   |  ├── infra-networking-3
-   |  ├── infra-networking-4
-   |  ├── infra-networking-5
-   |  ├── infra-networking-6
-   |  ├── infra-networking-7
-   |  ├── infra-networking-8
-   |  └── infra-networking-9
+      ├──. Create a Hub-Spoke network
+   |     ├── infra-networking-1 # deploy an Azure Virtual Network via ARM
+   |     ├── infra-networking-2 # design and connect 2 Azure Virtual Networks to eachother using automation
+   |     ├── infra-networking-3 # use Azure Bastion to remotely access a VM
+      ├──. Secure and isolate
+   |    ├── infra-networking-4 # deploy Azure Network Security Group ARM
+   |    ├── infra-networking-5 # deploy a firewall to connect to Internet
+   |    ├── infra-networking-6 # use a Service Endpoint to restrict access to your Storage Account
+   |    ├── infra-networking-7 # use Private Link to restrict access to your Storage Account
+      ├──. Hybrid Connectivity
+   |    ├── infra-networking-8 # connect your PC via VPN to your Virtual Networks
+      ├──. DNS
+   |    ├── infra-networking-9 # create your own DNS Forwarder
+   |    ├── infra-networking-10 # create your Azure Private DNS Zone and use the forwarder to resolve an A-record
+   |    ├── infra-networking-11 # use Private Link to connect to a Storage Account, leveraging your own DNS Forwarder
+   |    ├── infra-networking-12 # make your DNS Forwarder highly available using an Azure Load Balancer
+   ├──. Monitoring
+   |  ├── monitoring-basics-1 # create a workbook with Azure Resource metrics of your Lab environment
+   |  ├── monitoring-basics-2 # explore security center
+   |  ├── monitoring-networking-3 # use Network Watcher capabilities to troubleshoot
+   |  ├── monitoring-networking-4 # use Network Watcher capabilities to troubleshoot
    ├──. Advanced
    |  ├── infra-advanced-1 # create vm with software using ansible
-   |  ├── infra-advanced-2
-   |  ├── infra-advanced-3
+   |  ├── infra-advanced-2 # routing with Virtual WAN (Microhack - https://github.com/mddazure/azure-vwan-microhack)
+   |  ├── infra-advanced-3 # Azure Private Link DNS (Microhack - https://github.com/dmauser/azure-privatelink-dns-microhack)
    |  ├── infra-advanced-4
    |  ├── infra-advanced-5
    |  ├── infra-advanced-6
