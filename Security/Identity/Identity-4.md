@@ -11,6 +11,8 @@ Now that Constoso secured its identities in the cloud, they want to leverage thi
 
 Setup Priviledged Identity Management (PIM)...
 
+## Review and discussion
+If you want to talk through or validate your quest after you completed, contact [Matyas Safranka](mailto:matyas@microsoft.com) via email or Teams.
 
 ## References
 

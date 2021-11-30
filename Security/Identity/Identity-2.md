@@ -2,7 +2,7 @@
 
 ## Description
 
-This quest assumes that you already completed the quest to [extend Active Directory to Azure AD](./Identity-1.md)
+This quest assumes that you already completed the [extend Active Directory to Azure AD](./Identity-1.md) quest.
 
 Now that Constoso extended its identity infrastructure to Azure AD, they realized that their user credentials can be used to log on to Azure AD enabled services from anywhere in the internet. A weak, leaked or stolen password based credential can easily expose thier infrastructure. They want to secure their identities, both cloud only accounts and accounts synchronized from their on-premises AD. They want to leverage cloud native solutions for this.
 
@@ -10,8 +10,14 @@ Now that Constoso extended its identity infrastructure to Azure AD, they realize
 
 ## Outcome
 
-Setup and configure Multi-Factor Authentication (MFA) and Identity Protection (IP) for the synchronizesd account(s) and for a cloud-only account(s) as well. Securing identities also requires that the user can change their passowrd in  a self service way, also configure Self-Service Password Reset (SSPR) for the accounts as well. Make sure that in case of the on-prem synchronized account the SSPR changes the password in the on-premises AD as well. At the end of this scenario, you should have MFA configured for at leasts one cloud only account and one synchronized account. When they attempt to access the Azure Portal they should be be prompted to MFA. Users should be able to reset their passwords.
+Setup and configure Multi-Factor Authentication (MFA) and Identity Protection (IP) for the synchronizesd account(s) and for a cloud-only account(s) as well. Securing identities also requires that the user can change their passowrd in  a self service way, also configure Self-Service Password Reset (SSPR) for the accounts as well. Make sure that in case of the on-prem synchronized account the SSPR changes the password in the on-premises AD as well. At the end of this quest, you should have MFA configured for at leasts one cloud only account and one synchronized account. When they attempt to access the Azure Portal they should be be prompted to MFA. Users should be able to reset their passwords.
 
+## Review and discussion
+Why would it be necessary to have MFA or other forms of protection of credentials in the cloud?
+How or why does it differ from the traditional on-premsise approaches?
+What would be your 'elevator pitch' for a customer on Azure MFA, IP and SSPR? What would be the top 5-7 things that would highlight to a customer executive on the necessity of these?
+
+If you want to talk through or validate your quest after you completed, contact [Matyas Safranka](mailto:matyas@microsoft.com) via email or Teams.
 
 ## References
 

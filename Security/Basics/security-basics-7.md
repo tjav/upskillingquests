@@ -9,6 +9,8 @@ Constoso wants to control access to Azure resources...
 
 Create a custom role and assign RBAC on a...
 
+## Review and discussion
+If you want to talk through or validate your quest after you completed, contact [Matyas Safranka](mailto:matyas@microsoft.com) via email or Teams.
 
 ## References
 
