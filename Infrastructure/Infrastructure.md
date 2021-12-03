@@ -39,10 +39,10 @@ Infra track:
    |    ├── infra-networking-6 # use a Service Endpoint to restrict access to your Storage Account
    |    ├── infra-networking-7 # use Private Link to restrict access to your Storage Account
       ├──. Hybrid Connectivity
-   |    ├── infra-networking-8 # connect your PC via VPN to your Virtual Networks
+   |    ├── infra-networking-8 # connect a PC via VPN to your Virtual Networks
       ├──. DNS
    |    ├── infra-networking-9 # create your own DNS Forwarder
-   |    ├── infra-networking-10 # create your Azure Private DNS Zone and use the forwarder to resolve an A-record
+   |    ├── infra-networking-10 # create an Azure Private DNS Zone and use the forwarder to resolve an A-record
    |    ├── infra-networking-11 # use Private Link to connect to a Storage Account, leveraging your own DNS Forwarder
    |    ├── infra-networking-12 # make your DNS Forwarder highly available using an Azure Load Balancer
    ├──. Monitoring
