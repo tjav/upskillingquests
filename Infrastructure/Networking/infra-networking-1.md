@@ -2,7 +2,7 @@
 
 ## Description
 
-Contoso requested us to provision an Azure Virtual Network that can be used for multiple solutions. They want to store everything as Infrastructure as Code (IaC) consisting out of a BICEP/ARM template that is reusabled within the organization. They also requested a manner to keep track on IP space used within the Virtual Networks, to make sure there is not overlap in IP space. 
+Contoso requested us to provision an Azure Virtual Network that can be used for multiple solutions. They want to store everything as Infrastructure as Code (IaC) consisting out of a BICEP/ARM template that is reusable within the organization. They also requested a manner to keep track on IP space used within the Virtual Networks, to make sure there is not overlap in IP space. 
 
 ## Outcome
 
