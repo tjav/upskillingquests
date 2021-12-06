@@ -30,8 +30,8 @@ Infra track:
    |  └── infra-basics-18 # create a durable function
    ├──. Networking
       ├──. Create a Hub-Spoke network
-   |     ├── infra-networking-1 # deploy an Azure Virtual Network via ARM
-   |     ├── infra-networking-2 # design and connect 2 Azure Virtual Networks to eachother using automation
+   |     ├── infra-networking-1 # deploy an Azure Virtual Network via ARM/Bicep
+   |     ├── infra-networking-2 # design and connect 2 Azure Virtual Networks to each-other using automation
    |     ├── infra-networking-3 # use Azure Bastion to remotely access a VM
       ├──. Secure and isolate
    |    ├── infra-networking-4 # deploy Azure Network Security Group ARM
