@@ -2,14 +2,14 @@
 
 ## Description
 
-Contoso requested us to provision an Azure Virtual Network that can be used for multiple solutions. They want to store everything as Infrastructure as Code (IaC) consisting out of a BICEP/ARM template that is reusable within the organization. They also requested a manner to keep track on IP space used within the Virtual Networks, to make sure there is not overlap in IP space. 
+Contoso requested us to provision an Azure Virtual Network that can be used for multiple solutions. They want to store everything as Infrastructure as Code (IaC) including a BICEP/ARM template that is reusable within the organization. They also requested a manner to keep track on IP space usage within the Virtual Networks, to make sure there is not overlap in IP space. 
 
 ## Outcome
 
   1. Create a Virtual Network with:
     1. 2 subnets, one for IaaS workloads (e.g. Virtual Machine) and one for Private Link Endpoints
-    1. Using Azure DNS
-    1. Azure Storage West Europe Service Endpoint
+    1. That uses Azure Provided DNS
+    1. Configured with an Azure Storage West Europe Service Endpoint
   1. Deployed in a separate Resource Group
   1. A BICEP or ARM Template and Parameter file
   1. A release pipeline from where the Virtual Network is deployed
