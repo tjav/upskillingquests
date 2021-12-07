@@ -1,1 +1,22 @@
-# demoTenant
+# demoTenant 
+
+
+## Azure Environments:
+
+  In MS, we can have 2 types of environments : 
+     1. An internal subscription in MS Tenant (Always under the MS Tenant so you're not the owner of anything, only deployment is possible.)
+     2. A demo tenant for own demo environment with full rights, through making a request in CDX portal and MSDN subscription in Visual Studio Subscription portal.
+
+Follow below steps to get a demo tenant and MSDN subscription for demo environment:
+
+## Get Demo Tenant:
+
+1. Go to this link to create a Demo Tenant: https://cdx.transform.microsoft.com/
+2. Go to "My Environments" and create a tenant (Quick Tenant/Custom Tenant) and wait for 1-2 days to get the tenant ready.
+
+
+## Get MSDN subscription:
+
+1. To Build an infrastructure inside the demo tenant, we need to pay and hence we need a subscription.
+2. To get a subscription visit my visual studio : https://my.visualstudio.com/subscriptions 
+3. Click on "Benefits" and activate Azure monthly credit (150§). Activate the account using personal MSA, not the corporate credentials (@microsoft.com). It might take few hours to get the subscription in place.
