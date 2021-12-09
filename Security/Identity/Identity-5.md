@@ -12,6 +12,11 @@ As more and more of the IT applications and services are moving to the cloud, IT
 
 
 ## Review and discussion
+What are the benefits of B2B compared to creating accounts in the own environment? Why we could not or should not treat external users similarly like our internal users?
+What are the pro-s and cons?
+What security risks are mitigated with B2B? What security risks are introduced?
+What would be your elevator pitch on Azure B2B?
+
 If you want to talk through or validate your quest after you completed, contact [Matyas Safranka](mailto:matyas@microsoft.com) via email or Teams.
 
 ## References
