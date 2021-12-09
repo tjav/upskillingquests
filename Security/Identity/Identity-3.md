@@ -20,6 +20,10 @@ Setup Conditional Access (CA) configuration that meets the following requirement
 *Tip! Deploy a Windows 10 machine and Azure AD join that for scenarios in this quest*
 
 ## Review and discussion
+Why would you recommend conditional access? How would you argue if the customer would say that they already have a strong authentication method in place, so they do not see a reason for planning conditional access?
+Compare the following two approaches: "Enabling MFA for all accounts and all accesses" vs. "Leverage sophisticated conditional access policies that involves user, device, application and risks". Which would you recommend and why? Which do you think is more secure and why?
+What would be your 'elevator pitch' for a customer on Conditional? What would be the top 3-4 things that would highlight to a customer executive on Conditional access?
+
 If you want to talk through or validate your quest after you completed, contact [Matyas Safranka](mailto:matyas@microsoft.com) via email or Teams.
 
 ## References

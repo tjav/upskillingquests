@@ -15,7 +15,7 @@ Setup and configure Multi-Factor Authentication (MFA) and Identity Protection (I
 ## Review and discussion
 Why would it be necessary to have MFA or other forms of protection of credentials in the cloud?
 How or why does it differ from the traditional on-premsise approaches?
-What would be your 'elevator pitch' for a customer on Azure MFA, IP and SSPR? What would be the top 5-7 things that would highlight to a customer executive on the necessity of these?
+What would be your 'elevator pitch' for a customer on Azure MFA, IP and SSPR? What would be the top 3-5 things that would highlight to a customer executive on the necessity of these?
 
 If you want to talk through or validate your quest after you completed, contact [Matyas Safranka](mailto:matyas@microsoft.com) via email or Teams.
 
