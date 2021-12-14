@@ -34,4 +34,3 @@ It is not mandantory to use these references.
 
 
 [back](../Security.md) <--- * ---> [next](./security-basics-2.md)
-Tutorial: Grant a user access to Azure resources using the Azure portal
