@@ -32,5 +32,4 @@ Therefore the security related quests are organized around the following groupin
    ├──. Sentinel
       ├── Sentinel-path1 # Introduction to Azure Sentinel
       ├── Sentinel-path2 # Introduction to KQL
-      ├── Sentinel-path3 # Automate responses
  ```
