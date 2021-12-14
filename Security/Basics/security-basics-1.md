@@ -2,7 +2,7 @@
 
 ## Description
 
-Constoso wants to ensure that the 'least priviledge access' concept is applied to the Azure environment as well. Contoso want to investigate and learn more abour Role and Access management in Azure. Contoso is considering restricting access to the environment and ensuring that only service principals have write access to the environment, and users only can read access. 
+Contoso wants to ensure that the 'least priviledge access' concept is applied to the Azure environment as well. Contoso want to investigate and learn more abour Role and Access management in Azure. Contoso is considering restricting access to the environment and ensuring that only service principals have write access to the environment, and users only can read access. 
 There are specific departmental needs who need to audit or review custom aspects of the cloud.
 
 
