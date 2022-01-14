@@ -4,7 +4,7 @@
 
 This quest assumes that you already completed the [extend Active Directory to Azure AD](./Identity-1.md) quest.
 
-Now that Constoso extended its identity infrastructure to Azure AD, they realized that their user credentials can be used to log on to Azure AD enabled services from anywhere in the internet. A weak, leaked or stolen password based credential can easily expose thier infrastructure. They want to secure their identities, both cloud only accounts and accounts synchronized from their on-premises AD. They want to leverage cloud native solutions for this.
+Now that Contoso extended its identity infrastructure to Azure AD, they realized that their user credentials can be used to log on to Azure AD enabled services from anywhere in the internet. A weak, leaked or stolen password based credential can easily expose their infrastructure. They want to secure their identities, both cloud only accounts and accounts synchronized from their on-premises AD. They want to leverage cloud native solutions for this.
 
 
 
