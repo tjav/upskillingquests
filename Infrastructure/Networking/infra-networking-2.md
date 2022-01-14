@@ -2,8 +2,6 @@
 
 ## Description
 
-[TO BE COMPLETED]
-
 Contoso requested us to provision a second Azure Virtual Network. They require that those 2 network are connected with each other, meaning if you deploy a client in those that they can communicate in a secure manner. 
 
 ## Outcome
@@ -19,7 +17,7 @@ Contoso requested us to provision a second Azure Virtual Network. They require t
   
 The solution should look like something as this:
 
-![image](tjav/upskillingquests/Infrastructure/Networking/Network-quest02.jpg)
+![image](https://user-images.githubusercontent.com/25753877/149516149-a5ca4054-fd1b-43ed-8f44-796e220590ec.png)
 
 ## Review and discussion
 
