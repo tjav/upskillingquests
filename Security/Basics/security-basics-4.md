@@ -18,7 +18,7 @@ If you want to talk through or validate your quest after you completed, contact 
 
 ## References
 
-It is not mandantory to use these references.
+It is not mandatory to use these references.
 
 - [Access and track your secure score](https://docs.microsoft.com/en-us/azure/defender-for-cloud/secure-score-access-and-track)
 - [Security Controls in Microsoft Defender for Cloud: Secure Score Series - Overview](https://techcommunity.microsoft.com/t5/microsoft-defender-for-cloud/security-controls-in-microsoft-defender-for-cloud-secure-score/ba-p/1358556)
