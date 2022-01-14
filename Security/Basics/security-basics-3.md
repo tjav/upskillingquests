@@ -2,7 +2,7 @@
 
 ## Description
 
-Constoso wants to have a better insights to the security posture in the Azure resources. They are interested in Microsoft recommendation and best practices and they want to leverage cloud native Microsoft services for this. 
+Contoso wants to have a better insights to the security posture in the Azure resources. They are interested in Microsoft's recommendation and best practices and they want to leverage cloud native Microsoft services for this. 
 
 
 ## Outcome
