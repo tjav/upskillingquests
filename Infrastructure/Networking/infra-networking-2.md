@@ -20,7 +20,7 @@ Contoso requested us to provision a second Azure Virtual Network. They require t
   
 The solution should look like something as this:
 
-![image](https://user-images.githubusercontent.com/25753877/149518922-4137a642-6d09-4b5e-a8e6-9a6e882cd59f.png)
+![image](https://user-images.githubusercontent.com/25753877/149521742-12a34e21-0566-4a74-8b3a-8348a311879b.png)
 
 **Note**
 Do not forget to remove the resources, especially the Virtual Network Gateway when you are not planning to proceed on short term. This will save cost!
