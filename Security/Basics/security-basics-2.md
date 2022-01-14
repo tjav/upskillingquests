@@ -7,7 +7,7 @@ Data storage is the basic and foundational aspects for the cloud. THe basic buil
 
 ## Outcome
 For this quest complete the modules in the [Secure your Azure Storage account](https://docs.microsoft.com/en-us/learn/modules/secure-azure-storage-account/)
-Leverage [Azure Storage Expolrer](https://azure.microsoft.com/en-us/features/storage-explorer/) and a storage account in your test environment to experiment with securing access to a storage account.
+Leverage [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/) and a storage account in your test environment to experiment with securing access to a storage account.
 
 ## Review and discussion
 What is the difference between the Storage Account Keys and SAS tokens? Why it is relevant?
