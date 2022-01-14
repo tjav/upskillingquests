@@ -10,7 +10,7 @@ If you want to talk through or validate your quest after you completed, contact 
 
 ## References
 
-It is not mandantory to use these references.
+It is not mandatory to use these references.
 
 - [Learning Kusto Query Language - A tool for performance test engineers](https://techcommunity.microsoft.com/t5/testingspot-blog/learning-kusto-query-language-a-tool-for-performance-test/ba-p/2308480)
 - [Keyword Query Language (KQL) syntax reference](https://docs.microsoft.com/en-us/sharepoint/dev/general-development/keyword-query-language-kql-syntax-reference)
