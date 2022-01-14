@@ -9,7 +9,7 @@ The purpose of this quest is to explore the capabilities of Azure Policies.
 
 ## Outcome
 
-Use the built-in 'Secure transfer to storage accounts should be enabled' Azure Policy to achieve the followings:
+Use the built-in 'Secure transfer to storage accounts should be enabled' Azure Policy to achieve the following:
 - Assign the Policy to your subscription or to a resource group in your environment in Audit mode
 - Create a Storage Account. After deployment go to the 'Configuration' point under 'Settings' for the Storage account and select 'Disabled' for 'Secure transfer required'.
 - Go back to Azure Policies in the Portal and select the Compliance section. Wait until the non-compliant resources show up, you might need to refresh and wait up to an hour or so. Then change the setting back to 'Enabled'.
