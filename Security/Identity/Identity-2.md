@@ -10,7 +10,7 @@ Now that Contoso extended its identity infrastructure to Azure AD, they realized
 
 ## Outcome
 
-Setup and configure Multi-Factor Authentication (MFA) and Identity Protection (IP) for the synchronizesd account(s) and for a cloud-only account(s) as well. Securing identities also requires that the user can change their passowrd in  a self service way, also configure Self-Service Password Reset (SSPR) for the accounts as well. Make sure that in case of the on-prem synchronized account the SSPR changes the password in the on-premises AD as well. At the end of this quest, you should have MFA configured for at leasts one cloud only account and one synchronized account. When they attempt to access the Azure Portal they should be be prompted to MFA. Users should be able to reset their passwords.
+Setup and configure Multi-Factor Authentication (MFA) and Identity Protection (IP) for the synchronized account(s) and for a cloud-only account(s) as well. Securing identities also requires that the user can change their password in a self service way, also configure Self-Service Password Reset (SSPR) for the accounts as well. Make sure that in case of the on-prem synchronized account the SSPR changes the password in the on-premises AD as well. At the end of this quest, you should have MFA configured for at least one cloud only account and one synchronized account. When they attempt to access the Azure Portal they should be be prompted to MFA. Users should be able to reset their passwords.
 
 ## Review and discussion
 Why would it be necessary to have MFA or other forms of protection of credentials in the cloud?
