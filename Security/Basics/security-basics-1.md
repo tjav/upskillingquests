@@ -15,7 +15,7 @@ Try to leverage scripts/templates/code for implmenting these
 
 ## Review and discussion
 What are the pros and cons for using Custom roles?
-When would yo recommend using custom roles? When would you recommend using built-in roles?
+When would you recommend using custom roles? When would you recommend using built-in roles?
 What is the difference between Owner and Contributor built in roles? Why is it relevant?
 In the scenario: What do you think of granting only Read access for the DevOps team members? Why should or should not the DevOps team have Contributor or Owner rights on their own app?
 
