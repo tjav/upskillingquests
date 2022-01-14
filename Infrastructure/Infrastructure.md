@@ -8,7 +8,7 @@ Infra track:
 
 ```markdown
 .
-├──. Infrastructure
+   ├──. Infrastructure
    ├──. Basics
    |  ├── infra-basics-1  # create storageaccount arm
    |  ├── infra-basics-2  # deploy storageaccount template to storageaccount
