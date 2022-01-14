@@ -8,7 +8,7 @@ Constoso needs to extend its existing on-premises Active Directory identiy manag
 
 ## Outcome
 
-Create Windows Server 2019 VM in your subscription and promote it to a Domain Controller (DC). After the DC was promoted, creat a new Organizational Unit (OU) in the domain and under that OU create a test user and a testgroup. Add the user to the group. Then install Azure AD Connect on the domain controller (eventhough it is not a recommended practce, it suits the purposes of this quest). Then setup AAD Connect with a configuration that best matches the goals and requirements. Ensure that the test user and group is synchronized to the Azure AD. Check if you can authenticate to the Azure Portal with the user (the authenticatin must sucseed even if the user has no access to resources in Azure).
+Create Windows Server 2019 VM in your subscription and promote it to a Domain Controller (DC). After the DC was promoted, create a new Organizational Unit (OU) in the domain and under that OU create a test user and a test group. Add the user to the group. Then install Azure AD Connect on the domain controller (even though it is not a recommended practice, it suits the purposes of this quest). Then setup AAD Connect with a configuration that best matches the goals and requirements. Ensure that the test user and group is synchronized to the Azure AD. Check if you can authenticate to the Azure Portal with the user (the authentication must succeed even if the user has no access to resources in Azure).
 
 As a bonus or extra add-on to this challenge: customize the Azure AD logon experiences for the users for your own branding.
 
