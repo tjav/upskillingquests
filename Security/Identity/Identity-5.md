@@ -40,4 +40,3 @@ It is not mandatory to use these references.
 - [Email one-time passcode authentication](https://docs.microsoft.com/en-us/azure/active-directory/external-identities/one-time-passcode)
 
 [back](./Identity-3.md) <--- * ---> [back to security](../Security.md)
-
