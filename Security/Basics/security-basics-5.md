@@ -19,7 +19,7 @@ Use the built-in 'Secure transfer to storage accounts should be enabled' Azure P
 ## Review and discussion
 When would you use Audit? When would you use Deny? 
 What is the difference between a Policy and an Initiative?
-When would you assing a Policy? When would you assing an Initiative?
+When would you assign a Policy? When would you assign an Initiative?
 
 If you want to talk through or validate your quest after you completed, contact [Matyas Safranka](mailto:matyas@microsoft.com) via email or Teams.
 
