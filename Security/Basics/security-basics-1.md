@@ -23,7 +23,7 @@ If you want to talk through or validate your quest after you completed, contact 
 
 ## References
 
-It is not mandantory to use these references.
+It is not mandatory to use these references.
 
 - [What is Azure role-based access control (Azure RBAC)?](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
 - [What is Azure attribute-based access control (Azure ABAC)? (preview)](https://docs.microsoft.com/en-us/azure/role-based-access-control/conditions-overview)
