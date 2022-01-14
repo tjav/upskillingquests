@@ -2,17 +2,15 @@
 
 ## Description
 
-[TO BE COMPLETED]
-
-Contoso is very happy with there first Virtual Network and wants to get value out of it, by deploying a Virtual Machine that they can access remotely. They have the requirement that Virtual Machine may not have a direct Public IP Address assigned, but still it needs to be possible to RDP remotely into the VM.
+Contoso is very happy with there Hub-spoke architecture. They would like to improve there security posture and remove any Public IP's assigned to Virtual Machines and still be able to access them remotely. 
 
 ## Outcome
 
-  - Programmatically deploy a Virtual Machine into a Virtual Network.
-  - Deploy the prerequisites for Azure Bastion into the same or a separate Virtual Network. Note that a seperate Virtual Network requires a connect (Virtual Network Peering) with the destinated VM. 
+[ to be completed ] 
+  - Deploy the prerequisites for Azure Bastion into the Hub Virtual Network. 
   - Take security into account. Is there a manner to increase security of Azure Bastion? If so, how? 
     - Think about Identity & Access Management, and Networking Security Whitelisting.
-  - RDP (or SSH) into the VM.
+  - RDP (or SSH) into the VM through the Azure Portal or natively via Windows (mstsc.exe).
   
 The solution should look like something as this:
 
@@ -29,3 +27,4 @@ It is not mandatory to use these references.
   - [What is Azure Bastion?](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
   - [Azure Bastion nsg](https://docs.microsoft.com/en-us/azure/bastion/bastion-nsg)
   - [Vnet peering and Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/vnet-peering)
+  - [Connect to a VM using the native client on your Windows computer](https://docs.microsoft.com/en-us/azure/bastion/connect-native-client-windows)
