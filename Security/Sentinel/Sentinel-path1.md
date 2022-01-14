@@ -18,7 +18,8 @@ If you want to talk through or validate your quest after you completed, contact 
 
 ## References
 
-It is not mandantory to use these references.
+It is not mandatory to use these references.
+
 
 - [Cloud-native security operations with Microsoft Sentinel](https://docs.microsoft.com/en-us/learn/paths/security-ops-sentinel/)
 - [Sentinel Ninja training](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/become-a-microsoft-sentinel-ninja-the-complete-level-400/ba-p/1246310)
