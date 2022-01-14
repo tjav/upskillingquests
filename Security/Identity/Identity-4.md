@@ -2,7 +2,7 @@
 
 ## Description
 
-This quest assumes that you already completed the quest to [sconditional access](./Identity-3.md)
+This quest assumes that you already completed the quest to [conditional access](./Identity-3.md)
 
 In the day to day life of the Contoso administrators they find it time consuming that they are prompted for MFA prompts when they need to access environments in Azure. Most often their activity includes just to take a look on an item to read or check configurations or set values, but they do not need to change anything. The Security department has no problem of allowing a read only access to the Azure administrators, but any change or modification must be validated with an MFA. When investigating current security and operationl incidents the Contoso team finds that it would be ideal if admins would have to provide a justification (e.g.: a service desk ticket number and a description) when they do changes in the Azure environment. The opertaional team would also like to introduce a two-eye approach for changes on core parts of the infrastructure such as the central hub network.
 
