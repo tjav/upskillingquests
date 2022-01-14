@@ -22,7 +22,7 @@ If you want to talk through or validate your quest after you completed, contact 
 
 ## References
 
-It is not mandantory to use these references.
+It is not mandatory to use these references.
 
 - [Tutorial: Create a custom policy definition](https://docs.microsoft.com/en-us/azure/governance/policy/tutorials/create-custom-policy-definition)
 - [Azure Policy definition structure](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure)
