@@ -9,7 +9,7 @@ There are specific departmental needs who need to audit or review custom aspects
 ## Outcome
 
 Resource access: Create a Resource Group and a Service Prinipal (app registration) called `App1`. Create a custom role that allows the creation of VMs and VNETs in the `App1` RG for the `App1` service principal. 
-DevOps tema access: Create a group in Azure AD called `App1 DevOps Team`. Grant Reader role for the group on the `App1` Resource Group.
+DevOps team access: Create a group in Azure AD called `App1 DevOps Team`. Grant Reader role for the group on the `App1` Resource Group.
 Access to the security auditors: Create a group in Azure AD called `Security Auditors`. Grant Security Reader rights for this group in the Azure environment
 Try to leverage scripts/templates/code for implmenting these
 
