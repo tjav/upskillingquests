@@ -2,7 +2,7 @@
 
 ## Description
 
-Data storage is the basic and foundational aspects for the cloud. THe basic building block of this is the Azure Storage account. Understanding the security challenges and aspects of an Azure Storage Account is a key competence.
+Data storage is the basic and foundational aspects for the cloud. The basic building block of this is the Azure Storage account. Understanding the security challenges and aspects of an Azure Storage Account is a key competence.
 
 
 ## Outcome
