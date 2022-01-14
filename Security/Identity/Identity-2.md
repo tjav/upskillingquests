@@ -22,7 +22,7 @@ If you want to talk through or validate your quest after you completed, contact 
 
 ## References
 
-It is not mandantory to use these references.
+It is not mandatory to use these references.
 
 - [How it works: Azure AD Multi-Factor Authentication](https://docs.microsoft.com/en-us/azure/active-directory/authentication/concept-mfa-howitworks)
 - [Plan an Azure Active Directory Multi-Factor Authentication deployment](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-getstarted)
