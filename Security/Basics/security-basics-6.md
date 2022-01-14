@@ -24,7 +24,7 @@ If you want to talk through or validate your quest after you completed, contact 
 
 ## References
 
-It is not mandantory to use these references.
+It is not mandatory to use these references.
 
 - [Remediate non-compliant resources with Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/how-to/remediate-resources)
 - [Deploy Azure Policy to delegated subscriptions at scale](https://docs.microsoft.com/en-us/azure/lighthouse/how-to/policy-at-scale?toc=/azure/governance/policy/toc.json&bc=/azure/governance/policy/breadcrumb/toc.json)
