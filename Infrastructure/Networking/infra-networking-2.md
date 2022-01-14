@@ -17,7 +17,7 @@ Contoso requested us to provision a second Azure Virtual Network. They require t
   
 The solution should look like something as this:
 
-![image](https://user-images.githubusercontent.com/25753877/149516149-a5ca4054-fd1b-43ed-8f44-796e220590ec.png)
+![image](https://user-images.githubusercontent.com/25753877/149518922-4137a642-6d09-4b5e-a8e6-9a6e882cd59f.png)
 
 ## Review and discussion
 
