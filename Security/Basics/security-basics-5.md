@@ -25,7 +25,7 @@ If you want to talk through or validate your quest after you completed, contact 
 
 ## References
 
-It is not mandantory to use these references.
+It is not mandatory to use these references.
 
 - [What is Azure Policy?](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
 - [Understand Azure Policy effects](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/effects)
