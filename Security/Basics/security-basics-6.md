@@ -4,7 +4,7 @@
 
 This quest assumes that you already completed the [Governance with Policies](./security-basics-5.md) quest.
 
-One of the strenghts of Azure Policies to implement the previously mentioned guardrails is that it supports the [Deny](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/effects#deny) but also the [DeployIfNotExists](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/effects#deployifnotexists) and [Modify](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/effects#modify) effects. This means that Policies can configure deployed resources as well and not only audit compliance or prevent changes tu settings. Theoretically since Policies are using the same resource model as ARM it can be used to deploy custom resources as well, but more about that in custom policies in the next quest.
+One of the strenghts of Azure Policies to implement the previously mentioned guardrails is that it supports the [Deny](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/effects#deny) but also the [DeployIfNotExists](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/effects#deployifnotexists) and [Modify](https://docs.microsoft.com/en-us/azure/governance/policy/concepts/effects#modify) effects. This means that Policies can configure deployed resources as well and not only audit compliance or prevent changes through settings. Theoretically since Policies are using the same resource model as ARM it can be used to deploy custom resources as well, but more about that in custom policies in the next quest.
 
 Azure Policies with `DeployIfNotExists` conditions allow administrators to configure resources to a compliant state. This is 
 
