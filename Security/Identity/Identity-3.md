@@ -28,7 +28,7 @@ If you want to talk through or validate your quest after you completed, contact 
 
 ## References
 
-It is not mandantory to use these references.
+It is not mandatory to use these references.
 
 - [Conditional Access](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/overview)
 - [What is Identity Protection?](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection)
