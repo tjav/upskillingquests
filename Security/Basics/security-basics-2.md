@@ -11,7 +11,7 @@ Leverage [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/sto
 
 ## Review and discussion
 What is the difference between the Storage Account Keys and SAS tokens? Why it is relevant?
-What are the key aspects that needs to be taken into consideration for a storage accounts?
+What are the key aspects that needs to be taken into consideration for a storage account?
 What are the operational risks of the Storage Account Keys? And SAS keys?
 How is access management and network based access work for storage accounts. Which one is important in what context?
 
