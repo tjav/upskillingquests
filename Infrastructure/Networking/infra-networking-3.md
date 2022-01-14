@@ -6,7 +6,6 @@ Contoso is very happy with there Hub-spoke architecture. They would like to impr
 
 ## Outcome
 
-[ to be completed ] 
   - Deploy the prerequisites for Azure Bastion into the Hub Virtual Network. 
   - Take security into account. Is there a manner to increase security of Azure Bastion? If so, how? 
     - Think about Identity & Access Management, and Networking Security Whitelisting.
@@ -14,7 +13,7 @@ Contoso is very happy with there Hub-spoke architecture. They would like to impr
   
 The solution should look like something as this:
 
-![image](tjav/upskillingquests/Infrastructure/Networking/Network-quest02.jpg)
+![image](https://user-images.githubusercontent.com/25753877/149521820-9a3464f0-aa53-4cd8-9e0e-5a17f7d838f6.png)
 
 ## Review and discussion
 
