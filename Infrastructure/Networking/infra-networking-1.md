@@ -32,6 +32,10 @@ IP Schema example:
 |192.168.4.128|255.255.255.192|/26|192.168.4.132|192.168.4.191|Free|Free|To be assigned|-|-|
 |192.168.4.192|255.255.255.192|/26|192.168.4.196|192.168.4.254|Free|Free|To be assigned|-|-|
 
+## Review and discussion
+
+If you want to discuss the outcome, or have a validation of your quest, contact Dwaine Ridderhof. 
+
 ## References
 
 It is not mandatory to use these references.

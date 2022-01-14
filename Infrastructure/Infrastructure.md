@@ -31,10 +31,9 @@ Infra track:
    ├──. Networking
       ├──. Create a Hub-Spoke network
    |     ├── infra-networking-1 # deploy an Azure Virtual Network via ARM/Bicep
-   |     ├── infra-networking-2 # design and connect 2 Azure Virtual Networks to each other using automation
-   |     ├── infra-networking-3 # use Azure Bastion to remotely access a VM
+   |     ├── infra-networking-2 # use Azure Bastion to remotely access a VM
+   |     ├── infra-networking-3 # design and connect multiple Azure Virtual Networks
       ├──. Secure and isolate
-   |    ├── infra-networking-4 # deploy Azure Network Security Group ARM
    |    ├── infra-networking-5 # deploy a firewall to connect to Internet
    |    ├── infra-networking-6 # use a Service Endpoint to restrict access to your Storage Account
    |    ├── infra-networking-7 # use Private Link to restrict access to your Storage Account
