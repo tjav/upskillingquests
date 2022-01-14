@@ -6,10 +6,10 @@ Contoso requested us to provision an Azure Virtual Network that can be used for 
 
 ## Outcome
 
-  1. Create a Virtual Network with:
-    1. 2 subnets, one for IaaS workloads (e.g. Virtual Machine) and one for Private Link Endpoints
-    1. That uses Azure Provided DNS
-    1. Configured with an Azure Storage West Europe Service Endpoint
+  1. Create a Virtual Network with: <br>
+    - 2 subnets, one for IaaS workloads (e.g. Virtual Machine) and one for Private Link Endpoints <br>
+    - That uses Azure Provided DNS <br>
+    - Configured with an Azure Storage West Europe Service Endpoint
   1. Deployed in a separate Resource Group
   1. A BICEP or ARM Template and Parameter file
   1. A release pipeline from where the Virtual Network is deployed
@@ -34,7 +34,7 @@ IP Schema example:
 
 ## References
 
-It is not mandantory to use these references.
+It is not mandatory to use these references.
 
   - [Quickstart: Create a virtual network - Resource Manager template](https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-template)
   - [Manage network policies for private endpoints](https://docs.microsoft.com/en-us/azure/private-link/disable-private-endpoint-network-policy)
