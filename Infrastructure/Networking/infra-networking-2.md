@@ -2,7 +2,7 @@
 
 ## Description
 
-Contoso requested us to provision a second Azure Virtual Network. They require that those 2 network are connected with each other, meaning if you deploy a client in those that they can communicate in a secure manner. 
+Contoso requested us to provision a second Azure Virtual Network. They require that those 2 network are connected with each other. This includes the communication between clients that can be deployed in both Virtual Networks in a secure manner. 
 
 ## Outcome
 
