@@ -15,7 +15,7 @@ Contoso requested us to provision a second Azure Virtual Network. They require t
   - Deploy a VPN Virtual Network Gateway to the `GatewaySubnet`, a basic setup using the`VpnSku1` SKU is sufficient.
   - How can we connect the 2 Virtual Networks in an efficient manner? 
   - Make sure that tranisitive routing is used from the Hub (the Virtual Network Gateway)
-  - Implement a security to filter traffic between the Virtual Networks/Subnets, allow RDP or SSH only on the IaaS subnets.
+  - Implement security to filter traffic between the Virtual Networks/Subnets, allow RDP or SSH only on the IaaS subnets.
   - Deploy the required Virtual Machines to validate connectivity.
   
 The solution should look like something as this:
