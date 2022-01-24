@@ -17,7 +17,7 @@ Contoso her CISO department heard about the focus on Azure. They require an impr
   
 The solution should look like something as this:
 
-![image](https://user-images.githubusercontent.com/25753877/149521820-9a3464f0-aa53-4cd8-9e0e-5a17f7d838f6.png)
+![image](https://user-images.githubusercontent.com/25753877/150856686-3b7ad38f-68f6-4c9b-ab20-11ac32b4b7ce.png)
 
 ## Review and discussion
 
