@@ -12,7 +12,7 @@ End-user reported an issue while accessing their Storage Account that had a PaaS
     
 The solution should look like something as this:
 
-![image](https://user-images.githubusercontent.com/25753877/149521820-9a3464f0-aa53-4cd8-9e0e-5a17f7d838f6.png)
+![image](https://user-images.githubusercontent.com/25753877/150859155-2d282796-5b0d-4a8f-8000-aa2a30db3ea2.png)
 
 ## Review and discussion
 
