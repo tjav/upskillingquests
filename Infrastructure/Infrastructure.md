@@ -34,8 +34,8 @@ Infra track:
    |     ├── infra-networking-2 # use Azure Bastion to remotely access a VM
    |     ├── infra-networking-3 # design and connect multiple Azure Virtual Networks
       ├──. Secure and isolate
-   |    ├── infra-networking-5 # deploy a firewall to connect to Internet
-   |    ├── infra-networking-6 # use a Service Endpoint to restrict access to your Storage Account
+   |    ├── infra-networking-4 # filter traffic between Azure Private and Azure Public using a firewall
+   |    ├── infra-networking-5 # use a Service Endpoint to restrict access to a Storage Account
    |    ├── infra-networking-7 # use Private Link to restrict access to your Storage Account
       ├──. Hybrid Connectivity
    |    ├── infra-networking-8 # connect a PC via VPN to your Virtual Networks
