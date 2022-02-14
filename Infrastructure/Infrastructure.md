@@ -20,14 +20,17 @@ Infra track:
    |  ├── infra-basics-8  # create a azure devops pipeline to deploy
    |  ├── infra-basics-9  # create a github flow to deploy
    |  ├── infra-basics-10 # use terraform to deploy
-   |  ├── infra-basics-11 # use terraform with modules and variables
-   |  ├── infra-basics-12 # use terraform in a storage account
-   |  ├── infra-basics-13 # use terraform in a github flow
-   |  ├── infra-basics-14 # create an Node.js app with MongoDB (like https://docs.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app?pivots=platform-linux)
-   |  ├── infra-basics-15 # create a data lake with synapse like https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-sql
-   |  ├── infra-basics-16 # create a pwsh script that calls the ms graph
-   |  ├── infra-basics-17 # create a function app that executes the calls the script
-   |  └── infra-basics-18 # create a durable function
+   |  ├── infra-basics-11 # use terraform with Azure AD
+   |  ├── infra-basics-12 # use terraform with modules and variables
+   |  ├── infra-basics-13 # use terraform in a github flow with statefile
+   |  ├── infra-basics-14 # create vm template design
+   |  ├── infra-basics-15 # implement vm template 
+   |  ├── infra-basics-16 # create vm in a github flow
+   |  ├── infra-basics-17 # create an Node.js app with MongoDB (like https://docs.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app?pivots=platform-linux)
+   |  ├── infra-basics-18 # create a data lake with synapse like https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-sql
+   |  ├── infra-basics-19 # create a pwsh script that calls the ms graph
+   |  ├── infra-basics-20 # create a function app that executes the calls the script
+   |  └── infra-basics-21 # create a durable function
    ├──. Networking
       ├──. Create a Hub-Spoke network
    |     ├── infra-networking-1 # deploy an Azure Virtual Network via ARM/Bicep

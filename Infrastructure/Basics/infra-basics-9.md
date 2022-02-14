@@ -1,18 +1,18 @@
-# infra-basics-7
+# infra-basics-9
 
 ## Description
 
-Now that this is possible update the solution where all the resource group scoped resources are modulized and the parameters are in a seperate file.
+Next to ADO (Azure DevOps), GitHub is also providing pipeline support(workflows) to deploy infrastructure through actions. 
 
 ## Outcome
 
-- Modulize the solution
-- create a seperate file that contains the parameters.
+- deploy the solution via a GitHub workflow. 
 
 ## References
 
 It is not mandantory to use these references.
 
+- [GitHub documentation](https://docs.github.com/en)
 - [Azure Resource Manager documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 - [VS Code documentation](https://code.visualstudio.com/Docs)
@@ -20,4 +20,4 @@ It is not mandantory to use these references.
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/about)
 - [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/?view=azps-6.6.0)
 
-[back](./infra-basics-6.md) <--- * ---> [next](./infra-basics-8.md)
+[back](./infra-basics-8.md) <--- * ---> [next](./infra-basics-10.md)
