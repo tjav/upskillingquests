@@ -2,15 +2,15 @@
 
 ## Description
 
-The vm is not deployed via code. If not already, the customer would like that the vm password is randomly generated and added to a kv. Next to this, they want it to be part of a github workflow so it is easy to deploy.
+The customer is asking that all the services are using private endpoints. As a first service, you are asked to create a storage account with a ppt(can be uploaded manualy) in a blob container and show how the connection works.
 
-If you are looking for some additional setup of the vm please look [here](../Advanced/infra-advanced-1.md)
+If you are looking to understand more about the network setup look [here](../Networking/infra-networking-1.md)
 
 ## Outcome
 
-- make sure the password is randomly generated and stored in a keyvault
-- deploy the solution via github workflow
-- update the design if needed
+- Design the solutions
+- Deploy the VM solution and have seperate file for the storage account solution.
+- Make sure the file is not accessable over a public network.
 
 ## References
 
@@ -29,4 +29,4 @@ It is not mandantory to use these references.
 - [Terraform: Azure registry documentation (azurerm)](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 - [Terraform: Azure AD registry documentation (azuread)](https://registry.terraform.io/providers/hashicorp/azuread/latest/docs)
 
-[back](./infra-basics-15.md) <--- [TO OVERVIEW](../Infrastructure.md) ---> [next](./infra-basics-17.md)
+[back](./infra-basics-16.md) <--- [TO OVERVIEW](../Infrastructure.md) ---> [next](./infra-basics-17.md)
