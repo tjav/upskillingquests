@@ -12,6 +12,7 @@ Contoso is very happy with the setup as it is working right now. Some developers
 
 It is not mandantory to use these references.
 
+- [Bicep documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 - [Azure Resource Manager documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 - [VS Code documentation](https://code.visualstudio.com/Docs)
@@ -20,3 +21,5 @@ It is not mandantory to use these references.
 - [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/?view=azps-6.6.0)
 
 [back](./infra-basics-5.md) <--- * ---> [next](./infra-basics-7.md)
+
+[TO OVERVIEW](../Infrastructure.md)

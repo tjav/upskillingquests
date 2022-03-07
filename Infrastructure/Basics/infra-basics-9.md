@@ -12,6 +12,7 @@ Next to ADO (Azure DevOps), GitHub is also providing pipeline support(workflows)
 
 It is not mandantory to use these references.
 
+- [Bicep documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/)
 - [GitHub documentation](https://docs.github.com/en)
 - [Azure Resource Manager documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
@@ -21,3 +22,5 @@ It is not mandantory to use these references.
 - [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/?view=azps-6.6.0)
 
 [back](./infra-basics-8.md) <--- * ---> [next](./infra-basics-10.md)
+
+[TO OVERVIEW](../Infrastructure.md)

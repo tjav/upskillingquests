@@ -3,6 +3,8 @@
 Infra track:
 
 - [basics](Basics/infra-basics-1.md)
+  - you can choose to use the [arm](Basics/infra-basics-1.md)/[bicep](Basics/infra-basics-6.md)/[terraform](Basics/infra-basics-10.md) ones. Or do all of them.
+  - from [14](Basics/infra-basics-14.md) onwards, you can choose which IaC code you use.
 - [networking](Networking/readme.md)
 - [advanced](Advanced/infra-advanced-1.md)
 
@@ -10,27 +12,28 @@ Infra track:
 .
    ├──. Infrastructure
    ├──. Basics
-   |  ├── infra-basics-1  # create storageaccount arm
-   |  ├── infra-basics-2  # deploy storageaccount template to storageaccount
-   |  ├── infra-basics-3  # deploy linked template from a storageaccount
-   |  ├── infra-basics-4  # create keyvault to store SAS-token
-   |  ├── infra-basics-5  # deploy using the keyvault SAS-token
-   |  ├── infra-basics-6  # use bicep to deploy full setup with sas-token
-   |  ├── infra-basics-7  # create modules for bicep
-   |  ├── infra-basics-8  # create a azure devops pipeline to deploy
-   |  ├── infra-basics-9  # create a github flow to deploy
-   |  ├── infra-basics-10 # use terraform to deploy
-   |  ├── infra-basics-11 # use terraform with Azure AD
-   |  ├── infra-basics-12 # use terraform with modules and variables
-   |  ├── infra-basics-13 # use terraform in a github flow with statefile
+   |  ├── infra-basics-1  # create storageaccount arm (arm)
+   |  ├── infra-basics-2  # deploy storageaccount template to storageaccount (arm)
+   |  ├── infra-basics-3  # deploy linked template from a storageaccount (arm)
+   |  ├── infra-basics-4  # create keyvault to store SAS-token (arm)
+   |  ├── infra-basics-5  # deploy using the keyvault SAS-token (arm)
+   |  ├── infra-basics-6  # use bicep to deploy full setup  (bicep)
+   |  ├── infra-basics-7  # create modules for bicep (bicep)
+   |  ├── infra-basics-8  # create a azure devops pipeline to deploy (bicep)
+   |  ├── infra-basics-9  # create a github flow to deploy (bicep)
+   |  ├── infra-basics-10 # use terraform to deploy (terraform)
+   |  ├── infra-basics-11 # use terraform with Azure AD (terraform)
+   |  ├── infra-basics-12 # use terraform with modules and variables (terraform)
+   |  ├── infra-basics-13 # use terraform in a github flow with statefile (terraform)
    |  ├── infra-basics-14 # create vm template design
    |  ├── infra-basics-15 # implement vm template 
-   |  ├── infra-basics-16 # create vm in a github flow
-   |  ├── infra-basics-17 # create an Node.js app with MongoDB (like https://docs.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app?pivots=platform-linux)
-   |  ├── infra-basics-18 # create a data lake with synapse like https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-sql
-   |  ├── infra-basics-19 # create a pwsh script that calls the ms graph
-   |  ├── infra-basics-20 # create a function app that executes the calls the script
-   |  └── infra-basics-21 # create a durable function
+   |  ├── infra-basics-16 # create vm with kv via a github workflow
+   |  ├── infra-basics-17 # connect to a private storage account
+   |  ├── infra-basics-18 # create an Node.js app with MongoDB (like https://docs.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app?pivots=platform-linux)
+   |  ├── infra-basics-19 # create a data lake with synapse like https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-sql
+   |  ├── infra-basics-20 # create a pwsh script that calls the ms graph
+   |  ├── infra-basics-21 # create a function app that executes the calls the script
+   |  └── infra-basics-22 # create a durable function
    ├──. Networking
       ├──. Create a Hub-Spoke network
    |     ├── infra-networking-1 # deploy an Azure Virtual Network via ARM/Bicep

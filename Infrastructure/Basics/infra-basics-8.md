@@ -12,7 +12,8 @@ To automate the workflow, Azure DevOps can be used to deploy the solution.
 
 It is not mandantory to use these references.
 
-- [Azure Resource Manager documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
+- 
+- [Bicep documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/)[Azure Resource Manager documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/)
 - [Azure DevOps documentation](https://docs.microsoft.com/en-us/azure/devops/?view=azure-devops)
 - [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 - [VS Code documentation](https://code.visualstudio.com/Docs)
@@ -21,3 +22,5 @@ It is not mandantory to use these references.
 - [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/?view=azps-6.6.0)
 
 [back](./infra-basics-7.md) <--- * ---> [next](./infra-basics-9.md)
+
+[TO OVERVIEW](../Infrastructure.md)
