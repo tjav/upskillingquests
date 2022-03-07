@@ -62,3 +62,5 @@ An app registration needs to be created in Azure to make a connection between Az
 10. In "Details" section put the Service Connection Name and then "Verify and Save".
 
 Try to create a pipeline in ADO and push some codes to check if you can deploy a new resource in Azure through the ADO pipeline.
+
+[BACK TO OVERVIEW](../README.md)
