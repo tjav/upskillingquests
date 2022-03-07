@@ -7,6 +7,7 @@ Infra track:
   - from [14](Basics/infra-basics-14.md) onwards, you can choose which IaC code you use.
 - [networking](Networking/readme.md)
 - [advanced](Advanced/infra-advanced-1.md)
+- [AKS](AKS/infra-aks-1.md)
 
 ```markdown
 .
