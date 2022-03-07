@@ -29,6 +29,4 @@ It is not mandantory to use these references.
 - [Terraform: Azure registry documentation (azurerm)](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs)
 - [Terraform: Azure AD registry documentation (azuread)](https://registry.terraform.io/providers/hashicorp/azuread/latest/docs)
 
-[back](./infra-basics-16.md) <--- * ---> [next](./infra-basics-17.md)
-
-[TO OVERVIEW](../Infrastructure.md)
+[back](./infra-basics-16.md) <--- [TO OVERVIEW](../Infrastructure.md) ---> [next](./infra-basics-17.md)

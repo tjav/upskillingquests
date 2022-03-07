@@ -22,6 +22,4 @@ It is not mandantory to use these references.
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/about)
 - [Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/?view=azps-6.6.0)
 
-[back](./infra-basics-9.md) <--- * ---> [next](./infra-basics-11.md)
-
-[TO OVERVIEW](../Infrastructure.md)
+[back](./infra-basics-9.md) <--- [TO OVERVIEW](../Infrastructure.md) ---> [next](./infra-basics-11.md)
