@@ -30,11 +30,13 @@ Infra track:
    |  ├── infra-basics-15 # implement vm template 
    |  ├── infra-basics-16 # create vm with kv via a github workflow
    |  ├── infra-basics-17 # connect to a private storage account
-   |  ├── infra-basics-18 # create an Node.js app with MongoDB (like https://docs.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app?pivots=platform-linux)
-   |  ├── infra-basics-19 # create a data lake with synapse like https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-sql
-   |  ├── infra-basics-20 # create a pwsh script that calls the ms graph
-   |  ├── infra-basics-21 # create a function app that executes the calls the script
-   |  └── infra-basics-22 # create a durable function
+   |  ├── infra-basics-18 # connect to purview via a private endpoint
+   |  ├── infra-basics-19 # setup purview to read the storage account
+   |  ├── infra-basics-20 # create an Node.js app with MongoDB (like https://docs.microsoft.com/en-us/azure/app-service/tutorial-nodejs-mongodb-app?pivots=platform-linux)
+   |  ├── infra-basics-21 # create a data lake with synapse like https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-sql
+   |  ├── infra-basics-22 # create a pwsh script that calls the ms graph
+   |  ├── infra-basics-23 # create a function app that executes the calls the script
+   |  └── infra-basics-24 # create a durable function
    ├──. Networking
       ├──. Create a Hub-Spoke network
    |     ├── infra-networking-1 # deploy an Azure Virtual Network via ARM/Bicep
