@@ -5,9 +5,11 @@ Infra track:
 - [basics](Basics/infra-basics-1.md)
   - you can choose to use the [arm](Basics/infra-basics-1.md)/[bicep](Basics/infra-basics-6.md)/[terraform](Basics/infra-basics-10.md) ones. Or do all of them.
   - from [14](Basics/infra-basics-14.md) onwards, you can choose which IaC code you use.
-- [networking](Networking/readme.md)
+- [networking](Networking/infra-networking-1.md)
 - [advanced](Advanced/infra-advanced-1.md)
 - [AKS](AKS/infra-aks-1.md)
+- [Cloud Adoption Framework](CAF/intro.md)
+- 
 
 ```markdown
 .

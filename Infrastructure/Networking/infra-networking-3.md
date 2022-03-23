@@ -23,7 +23,9 @@ If you want to discuss the outcome, or have a validation of your quest, contact 
 
 It is not mandatory to use these references.
 
-  - [What is Azure Bastion?](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
-  - [Azure Bastion nsg](https://docs.microsoft.com/en-us/azure/bastion/bastion-nsg)
-  - [Vnet peering and Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/vnet-peering)
-  - [Connect to a VM using the native client on your Windows computer](https://docs.microsoft.com/en-us/azure/bastion/connect-native-client-windows)
+- [What is Azure Bastion?](https://docs.microsoft.com/en-us/azure/bastion/bastion-overview)
+- [Azure Bastion nsg](https://docs.microsoft.com/en-us/azure/bastion/bastion-nsg)
+- [Vnet peering and Azure Bastion](https://docs.microsoft.com/en-us/azure/bastion/vnet-peering)
+- [Connect to a VM using the native client on your Windows computer](https://docs.microsoft.com/en-us/azure/bastion/connect-native-client-windows)
+
+[back](./infra-networking-2.md) <--- [TO OVERVIEW](../Infrastructure.md) ---> [next](./infra-networking-4.md)

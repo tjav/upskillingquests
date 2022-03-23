@@ -6,17 +6,17 @@ Contoso requested us to provision a second Azure Virtual Network. They require t
 
 ## Outcome
 
-  - A second Virtual Network deployed, consisting out of: <br>
-    - 1 subnet for an IaaS workloads (e.g. Virtual Machine)
-      - Name the VNet `hub01-vnet`, to make it suitable for upcoming quests.
-      - Name the subnet `dns01-subnet`, to make it suitable for upcoming quests.
-    - 1 subnet for a Virtual Network Gateway, named `GatewaySubnet` 
-    - That uses Azure Provided DNS
-  - Deploy a VPN Virtual Network Gateway to the `GatewaySubnet`, a basic setup using the`VpnSku1` SKU is sufficient.
-  - How can we connect the 2 Virtual Networks in an efficient manner? 
-  - Make sure that tranisitive routing is used from the Hub (the Virtual Network Gateway)
-  - Implement security to filter traffic between the Virtual Networks/Subnets, allow RDP or SSH only on the IaaS subnets.
-  - Deploy the required Virtual Machines to validate connectivity.
+- A second Virtual Network deployed, consisting out of: <br>
+  - 1 subnet for an IaaS workloads (e.g. Virtual Machine)
+    - Name the VNet `hub01-vnet`, to make it suitable for upcoming quests.
+    - Name the subnet `dns01-subnet`, to make it suitable for upcoming quests.
+  - 1 subnet for a Virtual Network Gateway, named `GatewaySubnet` 
+  - That uses Azure Provided DNS
+- Deploy a VPN Virtual Network Gateway to the `GatewaySubnet`, a basic setup using the`VpnSku1` SKU is sufficient.
+- How can we connect the 2 Virtual Networks in an efficient manner? 
+- Make sure that tranisitive routing is used from the Hub (the Virtual Network Gateway)
+- Implement security to filter traffic between the Virtual Networks/Subnets, allow RDP or SSH only on the IaaS subnets.
+- Deploy the required Virtual Machines to validate connectivity.
   
 The solution should look like something as this:
 
@@ -33,6 +33,8 @@ If you want to discuss the outcome, or have a validation of your quest, contact 
 
 It is not mandatory to use these references.
 
-  - [Quickstart: Create a virtual network - Resource Manager template](https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-template)
-  - [Cross-network connectivity](https://docs.microsoft.com/en-us/azure/expressroute/cross-network-connectivity?toc=/azure/virtual-network/toc.json#cross-connecting-vnets)
-  - [Azure network security groups](https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
+- [Quickstart: Create a virtual network - Resource Manager template](https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-template)
+- [Cross-network connectivity](https://docs.microsoft.com/en-us/azure/expressroute/cross-network-connectivity?toc=/azure/virtual-network/toc.json#cross-connecting-vnets)
+- [Azure network security groups](https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview)
+
+[back](./infra-networking-1.md) <--- [TO OVERVIEW](../Infrastructure.md) ---> [next](./infra-networking-3.md)
