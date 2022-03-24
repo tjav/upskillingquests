@@ -8,8 +8,7 @@ Infra track:
 - [networking](Networking/infra-networking-1.md)
 - [advanced](Advanced/infra-advanced-1.md)
 - [AKS](AKS/infra-aks-1.md)
-- [Cloud Adoption Framework](CAF/intro.md)
-- 
+- [Cloud Adoption Framework](ALZ/intro.md)
 
 ```markdown
 .
@@ -70,4 +69,11 @@ Infra track:
    |  ├── infra-advanced-7
    |  ├── infra-advanced-8
    |  └── infra-advanced-9
+   ├──. AKS
+   ├──. CAF
+      ├── intro
+      ├── infra-alz-1 # Hierarchy
+      ├── infra-alz-2 # connectivity
+      ├── infra-alz-3 # management
+      └── infra-alz-4 # Landing zone
 ```
