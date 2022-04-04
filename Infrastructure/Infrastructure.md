@@ -8,7 +8,7 @@ Infra track:
 - [networking](Networking/infra-networking-1.md)
 - [advanced](Advanced/infra-advanced-1.md)
 - [AKS](AKS/infra-aks-1.md)
-- [Cloud Adoption Framework](ALZ/intro.md)
+- [Azure Landing Zones](ALZ/intro.md)
 
 ```markdown
 .
