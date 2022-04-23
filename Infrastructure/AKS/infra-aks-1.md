@@ -22,7 +22,7 @@ You point Contoso to the advantages of Microservices:
 * Easier to scale out because only the particular microservice that generates a large load needs to scale
 * If a particular microservices goes down for a bug then it does not affect other microservices.
 
-Contoso expresses their intent that they indeed want to go the Microservices route! 
+After hearing this, Contoso expresses their intent that they indeed want to go the Microservices route. 
 But on which platform should these microservices be deployed? These are Contoso's requirements:
 
 * Contoso has partnered with Microsoft and has a preference for the Azure cloud.
